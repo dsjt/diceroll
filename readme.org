@@ -1,0 +1,4 @@
+glutを用いて六面ダイスのロールを行う。
+
+#+html: <video loop src="./dice.mp4" controls></video>
+[[file:dice.mp4]]
